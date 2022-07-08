@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;800&display=swap');
+h3,p, .text{
+    margin-left: 15px;
+}
+
+.box-model{
+    font-family: poppins;
+    
+}
+
+.categories {
+    display:flex;
+   
+    color: white;
+    }
+
+.first-image {
+    background-color: rgb(222, 49, 81);
+    border-radius: 16px;
+    height: 410px;
+    margin: 10px;
+    width: 320px;
+    }
+    
+    .second-image {
+       background-color: rgb(217, 59, 48) ;
+       border-radius: 16px;
+       margin: 10px;
+    }
+    
+    .third-image {
+            background-color: rgb(204, 45, 74);
+            border-radius: 16px;
+            margin: 10px;
+       }
+    
+    .fourth-image {
+        background-color: rgb(188, 26, 110);
+        border-radius: 16px;
+        margin: 10px;
+    }
+    
+    .card-img {
+        width: 100%;
+        border-radius: 16px;
+        }
